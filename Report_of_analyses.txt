@@ -1,0 +1,4 @@
+This data contians Nane values in columns "Notes" and "Status" so I delete this columns.
+I found that this data has rows with "not provided" value in "EmployeeName" and 'JobTitle' so I delete this rows. 
+In column 'TotalPayBenefits' I found a negative value so I delete this row. 
+I noticed when I grouped data with 'JobTitle' that data contain an job Titele "X-RAY LABORATORY AIDE" and "X-Ray Laboratory Aide" and I think this is the same but data was diffrent. 
